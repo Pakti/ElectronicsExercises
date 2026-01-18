@@ -1,0 +1,24 @@
+# LTspice simulator files
+
+# Simulation output files
+*.raw
+*.log
+*.net
+
+# Temporary files
+*.op.raw
+
+# Backup files
+*.asc~
+*.asy~
+
+# LTspice plot settings
+*.plt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor backup files
+*~
+*.bak
